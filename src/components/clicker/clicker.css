@@ -1,0 +1,10 @@
+.Clicker{
+    width: 60%;
+    height: 60%;
+    border: 1px solid #000;
+}
+.Clicker > p {
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+}
